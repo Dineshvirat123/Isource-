@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git 'https://github.com/yourusername/devops-mini-challenge.git'
+                git 'https://github.com/Dineshvirat123/Isource-.git'
             }
         }
         stage('Build') {
